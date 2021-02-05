@@ -1,0 +1,9 @@
+.ColorBox {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    border: 2px solid cadetblue;
+    border-radius: 5px;
+}
